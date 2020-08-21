@@ -1,1 +1,1 @@
-# bignumber-of--
+# bignumber-of--階乘
